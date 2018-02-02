@@ -9,7 +9,7 @@ permalink: /about/
   <div style="width: 200px; height: 200px; border-radius: 100px; box-shadow: 0px 0px 5px 0 #000;
               background-position: center center;
               background-size: cover;
-              background-image: url('/images/alex_rogozhnikov.jpeg');">
+              background-image: url('/images/cskksdfklpz.png');">
   </div>
 </center>
 
