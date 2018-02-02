@@ -1,11 +1,11 @@
 # Site settings
-title: Brilliantly wrong
-longtitle: Brilliantly wrong (blog by Alex Rogozhnikov)
-email: alex.rogozhnikov@yandex.ru
-description: Brilliantly Wrong — Alex Rogozhnikov's blog about math, machine learning, programming and high energy physics.
+title: MrbHub
+longtitle: MrbHub (blog by Quanzhi Bi)
+email: cskksdfklpz@gmail.com
+description: MrbHub — Mr. B's blog about math, machine learning, programming and data science.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://arogozhnikov.github.io" # the base hostname & protocol for your site
+url: "http://cskksdfklpz.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username: arogozhnikov
+github_username: cskksdfklpz
 # Build settings
 markdown: kramdown
