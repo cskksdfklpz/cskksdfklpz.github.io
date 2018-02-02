@@ -23,7 +23,7 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.linktitle }}</a>
+          <a class="page-link" style="line-height: 35px; font-weight: bold; padding: 12px 0px; color: white;" href="{{ page.url | prepend: site.baseurl }}">{{ page.linktitle }}</a>
           {% endif %}
         {% endfor %}
       </div>
